@@ -1,12 +1,13 @@
 import React from "react";
 import "./App.css";
-import Covid from "./components/Covid";
+
+import Form from "./components/Form";
 
 
 function App() {
   return (
     <>
-      <Covid/>
+     <Form/>
     </>
   );
 }
