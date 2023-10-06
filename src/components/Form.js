@@ -57,7 +57,7 @@ const Form = () => {
             return (
               <div className=" bg-stone-200 flex flex-row">
                 <p className="mx-14 py-2">{curElem.email}</p>
-                <p className="mx-20 py-2">{curElem.password}</p>z
+                <p className="mx-20 py-2">{curElem.password}</p>
                 
               </div>
             );
